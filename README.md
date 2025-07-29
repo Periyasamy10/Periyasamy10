@@ -8,7 +8,8 @@ I'm a DevOps Engineer with hands-on experience in building CI/CD pipelines, mana
 
 ## 💼 Work Experience
 
-**🔧 Infosys – Senior Systems Engineer (Jan 2022 – Present)**  
+**🔧 Infosys – Senior Systems Engineer**  
+*Jan 2022 – Present*  
 - Built CI/CD pipelines using Jenkins and Argo CD to streamline Java application deployments.  
 - Managed Kubernetes clusters for highly available containerized applications.  
 - Automated tasks using Python scripts, improving efficiency by 60%.  
@@ -16,7 +17,8 @@ I'm a DevOps Engineer with hands-on experience in building CI/CD pipelines, mana
 - Gained experience in Terraform and Ansible through test environment automation.  
 - Integrated AWS KMS for secure data encryption.
 
-**🛠 Objectways Technologies – Analyst (Feb 2021 – Dec 2021)**  
+**🛠 Objectways Technologies – Analyst**  
+*Feb 2021 – Dec 2021*  
 - Worked on XSLT and JSONata to transform API payloads.  
 - Created AWS IAM users and roles for controlled access.  
 - Assisted with basic automation scripts and deployment validation.
@@ -38,17 +40,13 @@ I'm a DevOps Engineer with hands-on experience in building CI/CD pipelines, mana
 
 ## 📂 Projects
 
-### 🧪 [CI/CD Pipeline for Java Application](#)
-- End-to-end pipeline using Jenkins, Docker, and Argo CD.
-- Deployed to Kubernetes with version control and testing.
-
-### ⚙️ [Kubernetes Cluster with Terraform & Ansible](https://github.com/Periyasamy10/kubernetes_cluster_creation)
-- Created 2-node kubeadm cluster on AWS EC2.
-- Infra via Terraform, config via Ansible roles.
-
-### 📊 Centralized Logging with ELK Stack
-- Deployed Filebeat as DaemonSet to forward logs.
-- Logstash to Elasticsearch, visualized in Kibana.
+| Project Name | Description |
+|--------------|-------------|
+| 🔧 [jenkins-kubernetes-agent-setup](https://github.com/Periyasamy10/jenkins-kubernetes-agent-setup) | Setup Jenkins with dynamic Kubernetes agents on EKS. |
+| 🌐 [terrafrom-aws-eks](https://github.com/Periyasamy10/terrafrom-aws-eks) | Provision AWS EKS cluster using Terraform. |
+| 📈 [opentelemetry-demo](https://github.com/Periyasamy10/opentelemetry-demo) | Observability demo using OpenTelemetry instrumentation. |
+| ⚙️ [kubernetes_cluster_creation](https://github.com/Periyasamy10/kubernetes_cluster_creation) | Create 2-node Kubernetes cluster using Terraform and Ansible. |
+| 🐍 [Python-mini-projects](https://github.com/Periyasamy10/Python-mini-projects) | Collection of Python mini-projects and scripts. |
 
 ---
 
@@ -69,11 +67,9 @@ VSB Engineering College – 2015 to 2019
 ## 📫 Contact Me
 
 - 📧 Email: [periyasamyrps10@gmail.com](mailto:periyasamyrps10@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](#) *(Add actual URL)*  
+- 💼 LinkedIn: [linkedin.com/in/periyasamyr](https://www.linkedin.com/in/periyasamyr)  
 - 🧑‍💻 GitHub: [github.com/Periyasamy10](https://github.com/Periyasamy10)
 
 ---
 
 ⭐ *Thanks for visiting my GitHub! I'm always open to collaboration and learning opportunities.*
-
-
