@@ -1,90 +1,104 @@
-# 👋 Hi, I'm Periyasamy R
+<h1 align="center">🚀 Periyasamy R – DevOps Engineer</h1>
 
-### 🚀 DevOps Engineer | CI/CD | Kubernetes | AWS | Automation Enthusiast
+<p align="center">
+  💡 Cloud | 🐳 Docker | ☸️ Kubernetes | ⚙️ CI/CD | 🌩️ AWS | 🔐 Vault | 🔍 ELK | 🧱 Terraform
+</p>
 
-Welcome to my DevOps project portfolio. I am a passionate and results-driven DevOps Engineer with over 4.5 years of experience in optimizing infrastructure, streamlining CI/CD pipelines, container orchestration, and cloud-native deployments on AWS.
-
-📧 periyasamyrps10@gmail.com  
-📞 +91-8220997661  
-🔗 [GitHub](https://github.com/Periyasamy10)  
-🔗 [LinkedIn](https://www.linkedin.com/in/periyasamy-rps/)  
+<p align="center">
+  <a href="mailto:periyasamyrps10@gmail.com">📧 Email</a> •
+  <a href="https://github.com/Periyasamy10">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/periyasamy-rps/">🔗 LinkedIn</a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🧑‍💻 About Me
 
-| Category                    | Tools & Technologies                                                                 |
-|----------------------------|---------------------------------------------------------------------------------------|
-| **Cloud Platforms**        | AWS (VPC, EC2, S3, RDS, EKS, IAM, KMS, Route 53, ALB/NLB, CloudWatch, CloudTrail, DynamoDB) |
-| **Containerization**       | Docker, Kubernetes (EKS, kubeadm, Ingress, RBAC, Volumes)                            |
-| **CI/CD Tools**            | Jenkins, GitHub Actions, Argo CD                                                     |
-| **IaC & Config Management**| Terraform, Ansible                                                                    |
-| **Version Control**        | Git, GitHub                                                                           |
-| **Scripting**              | Bash, Python                                                                          |
-| **Monitoring & Logging**   | ELK Stack (Elasticsearch, Logstash, Kibana, Filebeat)                                 |
-| **Security**               | HashiCorp Vault, AWS Key Management Service (KMS)                                     |
-| **Build Tools**            | Gradle, Maven                                                                         |
+Hi! I’m a DevOps Engineer with 4.5+ years of hands-on experience automating infrastructure, building scalable CI/CD pipelines, and deploying applications securely on AWS and Kubernetes. I love working with cloud-native technologies and turning complex manual processes into elegant, automated systems.
+
+---
+
+## 🛠️ Tech Stack
+
+| Category             | Tools & Technologies |
+|----------------------|----------------------|
+| ☁️ Cloud             | AWS (EC2, EKS, S3, IAM, RDS, VPC, CloudWatch, etc.) |
+| 🐳 Containers         | Docker, Kubernetes (EKS, kubeadm, Helm, Ingress) |
+| ⚙️ CI/CD             | Jenkins, GitHub Actions, Argo CD |
+| 📦 IaC & Config Mgmt | Terraform, Ansible |
+| 🔐 Security          | HashiCorp Vault, AWS KMS |
+| 📈 Monitoring        | ELK Stack (Elastic, Logstash, Kibana, Filebeat) |
+| 💻 Build & VCS       | Gradle, Maven, Git, GitHub |
+| 🧠 Scripting         | Shell, Python |
 
 ---
 
 ## 📁 Projects
 
-### 🔹 [jenkins-kubernetes-agent-setup](https://github.com/Periyasamy10/jenkins-kubernetes-agent-setup)  
-Installed Jenkins as a pod inside a Kubernetes cluster. On triggering a pipeline, it dynamically creates a slave pod to execute the pipeline tasks.
-
-### 🔹 [terrafrom-aws-eks](https://github.com/Periyasamy10/terrafrom-aws-eks)  
-Provisioned an AWS EKS cluster using Terraform, including VPC, subnets, route tables, internet gateway, and NAT gateway configuration.
-
-### 🔹 [opentelemetry-demo](https://github.com/Periyasamy10/opentelemetry-demo)  
-A demo e-commerce application where I containerized services and managed deployments for the `product-catalog`, `ad`, and `frontend` microservices using GitHub Actions and Argo CD.
-
-### 🔹 [kubernetes_cluster_creation](https://github.com/Periyasamy10/kubernetes_cluster_creation)  
-Created a two-node Kubernetes cluster using `kubeadm`, fully provisioned with Terraform and configured with Ansible.
+### 🔹 [Jenkins Kubernetes Agent Setup](https://github.com/Periyasamy10/jenkins-kubernetes-agent-setup)
+📌 Installed Jenkins as a pod in a Kubernetes cluster. When a pipeline is triggered, Jenkins dynamically spawns a slave pod to execute the job steps.
 
 ---
 
-## 💼 Professional Experience
+### 🔹 [Terraform AWS EKS Provisioning](https://github.com/Periyasamy10/terrafrom-aws-eks)
+📌 Provisioned a complete EKS cluster using Terraform — includes VPC, subnets, route tables, internet gateway, and NAT gateway setup.
 
-### **DevOps Engineer – Infosys (Finacle)**  
-🗓️ Jan 2022 – Present
+---
 
-- Streamlined Continuous Integration and Deployment (CI/CD) pipelines for Java-based applications using Gradle and Maven, reducing build and deployment times by 20%.
-- Containerized microservices architecture for three development teams using Docker and Kubernetes, improving scalability and deployment efficiency.
-- Implemented a GitOps-based deployment strategy using ArgoCD, improving deployment traceability, consistency, and rollback capabilities.
-- Led Kubernetes adoption across the organization, resulting in a 20% cost efficiency improvement.
-- Implemented Kubernetes Ingress controllers to route traffic to multiple microservices seamlessly.
-- Automated infrastructure provisioning on AWS using Terraform (Infrastructure as Code – IaC), enabling repeatable and consistent deployments.
-- Configured a Terraform remote backend with state locking using AWS S3 and DynamoDB, enabling secure and consistent state management across multiple development teams.
-- Strong hands-on experience with AWS services such as VPC, EC2, S3, RDS, EKS, IAM, KMS, Load Balancer (ALB/NLB), Route 53, CloudWatch, CloudTrail, and DynamoDB.
-- Set up centralized logging and monitoring using the ELK Stack (Elasticsearch, Logstash, Kibana), reducing incident response time by 35%.
-- Integrated AWS Key Management Service (KMS) for encryption and protection of sensitive data such as credit card information.
-- Developed Python automation scripts, eliminating 60% of repetitive manual tasks.
-- Deployed HashiCorp Vault for secure secrets and credential management, enhancing the organization's compliance and security posture.
-- Conducted Proof of Concept (PoC) sessions and Kubernetes onboarding for junior DevOps engineers and application developers.
+### 🔹 [OpenTelemetry Demo Deployment](https://github.com/Periyasamy10/opentelemetry-demo)
+📌 Containerized a demo microservices app and managed deployments of `product-catalog`, `ad`, and `frontend` using GitHub Actions and Argo CD.
 
-### **Analyst – Objectways Technologies**  
-🗓️ Feb 2021 – Dec 2021
+---
 
-- Worked on XSLT and JSONata transformations to standardize API payloads, ensuring seamless integration across systems.
-- Created and managed AWS IAM users, roles, and policies to enforce secure access control.
-- Implemented tag-based IAM policies in Amazon SageMaker to isolate annotation team access (CV/NLP) to specific notebooks and resources within a shared AWS account.
-- Wrote Ansible playbooks (YAML) for automated server configuration and infrastructure management.
-- Developed shell scripts to automate node health checks and monitor critical system metrics like CPU, memory, and disk usage.
-- Implemented cross-namespace data sharing in AWS EKS using a shared AWS EFS-backed Persistent Volume and identical PVCs, enabling seamless file transfer between pods across namespaces.
+### 🔹 [Kubernetes Cluster via Kubeadm](https://github.com/Periyasamy10/kubernetes_cluster_creation)
+📌 Created a two-node Kubernetes cluster using `kubeadm`, fully provisioned using Terraform and configured with Ansible automation.
+
+---
+
+## 💼 Work Experience
+
+### 🔧 Infosys (Finacle) — DevOps Engineer  
+📅 *Jan 2022 – Present*
+
+- ⏱️ Reduced build and deployment times by 20% via optimized Gradle/Maven CI/CD pipelines.
+- 📦 Containerized applications and deployed via Kubernetes (EKS).
+- 🔁 Implemented GitOps-based deployment with Argo CD.
+- 🌐 Led Kubernetes adoption, improving infra cost efficiency by 20%.
+- 🚪 Deployed Kubernetes Ingress controllers for microservice routing.
+- ⚙️ Automated infra provisioning using Terraform with remote state in S3 & DynamoDB.
+- 📊 Set up centralized monitoring using the ELK Stack.
+- 🔐 Integrated Vault for secrets management and AWS KMS for encryption.
+- 🧾 Created Python automation scripts to replace manual tasks.
+- 🧑‍🏫 Conducted PoCs and mentored juniors on Kubernetes onboarding.
+
+---
+
+### 🔧 Objectways Technologies — Analyst  
+📅 *Feb 2021 – Dec 2021*
+
+- 🔄 Standardized API payloads with XSLT and JSONata.
+- 🔐 Configured IAM users, roles, and tag-based access control in AWS SageMaker.
+- 📜 Developed Ansible playbooks and health-check shell scripts.
+- 📂 Implemented cross-namespace pod file sharing using EFS-backed PV/PVC in EKS.
 
 ---
 
 ## 📜 Certifications
 
-- ✅ Infosys Certified Kubernetes Administrator – Associate  
-- ✅ Infosys Certified Associate in Infrastructure as Code using Terraform
+- 🏅 Infosys Certified Kubernetes Administrator – Associate  
+- 🏅 Infosys Certified Associate in Infrastructure as Code using Terraform  
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Engineering in Mechanical Engineering**  
-VSB Engineering College – 2019
+🎓 Bachelor of Engineering in Mechanical Engineering  
+🏫 VSB Engineering College, 2019
 
+---
 
+## 📌 Connect with Me
 
+If you’re interested in working together, discussing tech, or just want to say hi — feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/periyasamy-rps/) or shoot me an email!
+
+---
