@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Periyasamy R – DevOps Engineer</h1>
+<h1 align="center">🚀 Periyasamy R – DevOps and Platform Engineer</h1>
 
 <p align="center">
   💡 Cloud | 🐳 Docker | ☸️ Kubernetes | ⚙️ CI/CD | 🌩️ AWS | 🔐 Vault | 🔍 ELK | 🧱 Terraform
@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi! I’m a DevOps Engineer with 4.5+ years of hands-on experience automating infrastructure, building scalable CI/CD pipelines, and deploying applications securely on AWS and Kubernetes. I love working with cloud-native technologies and turning complex manual processes into elegant, automated systems.
+Hi! I’m a DevOps and Platform Engineer with 4.5+ years of hands-on experience automating infrastructure, building scalable CI/CD pipelines, and deploying applications securely on AWS and Kubernetes. I love working with cloud-native technologies and turning complex manual processes into elegant, automated systems.
 
 ---
 
